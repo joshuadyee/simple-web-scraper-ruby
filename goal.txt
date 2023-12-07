@@ -1,3 +1,12 @@
-Info we need to know prior/adjacent web scraping:
+Questions we need to ask prior/adjacent web scraping:
 
-1. Questions are which tool, which data/info, how should that data/info be organized (i.e. report, spreadsheet, etc.), when should the process take place over the course of a given day/quarter/year, can the info be historically logged or not, ask if analytics can be derived from the data also via automation, think about which medium the “report” can best be delivered and to whom, and whether it’s feasible to sell the finalized process/product as an info service package/subscription, for instance. 
+Financial data:
+
+1. Which tool?
+2. Which data/info?
+3. How should that data/info be organized (i.e. report, spreadsheet, etc.)?
+4. When should the process take place over the course of a given day/quarter/year?
+5. Can the info be historically logged or not?
+6. Ask if analytics can be derived from the data also via automation
+7. Think about which medium the “report” can best be delivered and to whom
+8. Whether it’s feasible to sell the finalized process/product as an info service package/subscription, for instance. 
