@@ -6,7 +6,6 @@ response = HTTParty.get("https://scrapeme.live/shop/")
 
 # parsing the HTML document returned by the server 
 document = Nokogiri::HTML(response.body)
-# pp document
 
 # defining a data structure to store the scraped data 
 PokemonProduct = Struct.new(:url, :image, :name, :price)
